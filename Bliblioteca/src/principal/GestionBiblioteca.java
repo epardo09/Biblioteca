@@ -43,7 +43,8 @@ public class GestionBiblioteca {
 		e1.prestamo();
 		// Y ahora la devolvemos
 		e1.devolucion();
-
+		
+		// Mostramos información de la segunda enciclopedia
 		extracted(e2);
 
 		// Prestamos una
